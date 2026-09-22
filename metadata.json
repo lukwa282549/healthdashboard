@@ -1,0 +1,6 @@
+{
+  "name": "แดชบอร์ดเฝ้าระวังสุขภาพและพฤติกรรมเสี่ยงชุมชน",
+  "description": "ระบบแดชบอร์ดติดตามและวิเคราะห์ความเสี่ยงสุขภาพ ปัจจัยพฤติกรรม และข้อมูลคัดกรองโรคไม่ติดต่อเรื้อรัง เชื่อมโยงข้อมูลสดจาก Google Sheet",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
